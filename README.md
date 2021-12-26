@@ -4,6 +4,8 @@
 
 This is the code repository for [Scala Programming Projects](https://www.packtpub.com/application-development/scala-programming-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788397643), published by Packt.
 
+[![Build Status](https://dev.azure.com/testguithub/alouirabeh/_apis/build/status/rabehaloui.Scala-Programming-Projects?branchName=master)](https://dev.azure.com/testguithub/alouirabeh/_build/latest?definitionId=1&branchName=master)
+
 **Build real world projects using popular Scala frameworks like Play, Akka, and Spark**
 
 ## What is this book about?
